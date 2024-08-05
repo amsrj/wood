@@ -8,6 +8,10 @@ li {
     list-style-type: none;
 }
 
+img {
+    vertical-align: top;
+}
+
 h1, h2 {
     margin: unset;
     font-size: unset;
