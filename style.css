@@ -8,7 +8,7 @@ li {
     list-style-type: none;
 }
 
-h1 {
+h1, h2 {
     margin: unset;
     font-size: unset;
     font-weight: unset;
@@ -91,6 +91,11 @@ h1 {
 
 .card {
     background-color: white;
+    color: #FFA500;
+}
+
+.card-title {
+    border-top: 4px solid;
 }
 
 .footer {
