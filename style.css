@@ -96,10 +96,19 @@ h1, h2 {
 .card {
     background-color: white;
     color: #FFA500;
+    border-radius: 12px;
+    overflow: hidden;
 }
 
 .card-title {
     border-top: 4px solid;
+    background-image: url(images/play.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 14px;
+    font-weight: 600;
 }
 
 .footer {
